@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <id>1</id>
+    <ime>Jack</ime>
+    <prezime>Sparrow</prezime>
+    <opis>Jack Sparrow was a legendary pirate of the Seven Seas, and the irreverent trickster of the Caribbean.</opis>
+    <pojava>The Curse of the Black Pearl</pojava>
+  </user>
+  <user id="2">
+    <id>2</id>
+    <ime>William</ime>
+    <prezime>Turner</prezime>
+    <opis>In his life, Will Turner was an accomplished blacksmith by trade, an excellent swordsman by pursuit and a budding pirate by fate.</opis>
+    <pojava>The Curse of the Black Pearl</pojava>
+  </user>
+  <user id="3">
+    <id>3</id>
+    <ime>Davy</ime>
+    <prezime>Jones</prezime>
+    <opis>A fearsome captain, a ruthless and heartless beast, striking terror into the bravest of sailors as the devil of the deep.</opis>
+    <pojava>Dead Man's Chest</pojava>
+  </user>
+  <user id="4">
+    <id>4</id>
+    <ime>Kraken</ime>
+    <prezime></prezime>
+    <opis>The Kraken was a legendary sea monster, a leviathan sent to prey on unwary ships and mariners.</opis>
+    <pojava>Dead Man's Chest</pojava>
+  </user>
+  <user id="5">
+    <id>5</id>
+    <ime>Armando</ime>
+    <prezime>Salazar </prezime>
+    <opis>Armando Salazar was the legendary and terrifying pirate hunter who haunted the Caribbean.</opis>
+    <pojava>Dead Men Tell No Tales</pojava>
+  </user>
+</users>
